@@ -1,6 +1,6 @@
 {
     "name": "idplus/laravel-mercure-publisher",
-    "description": "Laravel Mercure handling",
+    "description": "Laravel Mercure Publisher",
     "type": "library",
     "keywords": [
         "mercure",
